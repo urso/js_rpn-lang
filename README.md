@@ -31,11 +31,6 @@ In order to build the documentation you will need:
 - [jsdoc simple template](http://github.com/urso/jsdoc-simple):  
   just copy 'jsdoc-simple' directory to jsdoc toolkit's template directory
 
-- [pandoc](http://johnmacfarlane.net/pandoc/installing.html):  
-  used to preprocess static documentation files. Alternatively you can use any
-  other markdown preprocessor and update jsdoc.conf in the source directory 
-  to use that preprocessor instead of pandoc.
-
 - run './mkdoc' shell command (needs *nix shell).
 
 Usage
